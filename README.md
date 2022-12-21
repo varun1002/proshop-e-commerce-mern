@@ -85,8 +85,8 @@ admin@example.com (Admin)
 varun@example.com (Customer)
 varun1234
 
-jane@example.com (Customer)
-123456
+arun@example.com (Customer)
+arun1234
 ```
 
 
