@@ -36,18 +36,18 @@ JWT_SECRET = 'abc123'
 PAYPAL_CLIENT_ID = your paypal client id
 ```
 
-### Install Dependencies (frontend & backend)
+### Install Dependencies (client & backend)
 
 ```
 npm install
-cd frontend
+cd client
 npm install
 ```
 
 ### Run
 
 ```
-# Run frontend (:3000) & backend (:5000)
+# Run client (:3000) & backend (:5000)
 npm run dev
 
 # Run backend only
@@ -57,8 +57,8 @@ npm run server
 ## Build & Deploy
 
 ```
-# Create frontend prod build
-cd frontend
+# Create client prod build
+cd client
 npm run build
 ```
 
